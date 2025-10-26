@@ -176,9 +176,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 -----
 
-\<div align="center"\>
-  \<strong\>⭐ If this analysis was helpful, don't forget to star the repository\! ⭐\</strong\>
-\</div\>
-
-```
-```
+⭐ If this analysis was helpful, don't forget to star the repository! ⭐
